@@ -10,7 +10,7 @@ This Guide Assumes that you have done the following:
 ![image](https://i.imgur.com/5c4g16d.png)
 
 2. Enter A Name & Select Cloud Storage file Under Source
-![image](https://i.imgur.com/JuplNV9.png)
+![image](https://i.imgur.com/MPw7AGn.png)
 
 3. Type in: arch_linux/arch-v4.14.12.tar.gz & Press Create
 	- https://console.cloud.google.com/storage/browser/arch_linux
@@ -21,3 +21,7 @@ This Guide Assumes that you have done the following:
 
 5. Configure to Your Liking & Push Create
 ![image](https://i.imgur.com/amtjFIU.png)
+
+Arch Linux Image Source & Credits
+- alrii14344
+https://bbs.archlinux.org/viewtopic.php?id=233331
